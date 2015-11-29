@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Add Merge
 Git merge with fast-forward
 Modifoied readme.txt
+Add /usr/bin/env
